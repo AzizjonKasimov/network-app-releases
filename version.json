@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.1.0/NetworkApp-0.1.0.apk",
+  "apkSizeBytes": 7444631,
+  "sha256": "85afd94a42bb5360fedb5cfe5c3ac09edbb415b98402e6c2867e4f755a756e2c",
+  "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
+  "notes": "Initial signed Network App release."
+}
