@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.2.0/NetworkApp-0.2.0.apk",
-  "apkSizeBytes": 7526551,
-  "sha256": "3fc51c87ac22d95e6dfa8ab43bedfc0b955b2d279f8f9aae46be3545c4817ecf",
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.3.0/NetworkApp-0.3.0.apk",
+  "apkSizeBytes": 7547327,
+  "sha256": "d9829942f78d3af77fb0893ab43e8ff2f5c6546da76fc9284c8ba01f390d6b63",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Adds reviewed Gemini natural-language capture and updates, consent-gated evidence-backed Gemini search, Room and encrypted-backup schema v2 compatibility, and Gemini 3.6 Flash for reliable structured responses."
+  "notes": "Adds a native launcher icon, high-thinking Gemini with fact-coverage warnings, on-device-first voice input for Capture and Match, and provider-compatible structured proposals."
 }
