@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.3.0/NetworkApp-0.3.0.apk",
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.4.0/NetworkApp-0.4.0.apk",
   "apkSizeBytes": 7547327,
-  "sha256": "d9829942f78d3af77fb0893ab43e8ff2f5c6546da76fc9284c8ba01f390d6b63",
+  "sha256": "2af192c5a70eb9be94349a064c32a5ff35fe3f8e296691eb3fa8c807b1b95013",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Adds a native launcher icon, high-thinking Gemini with fact-coverage warnings, on-device-first voice input for Capture and Match, and provider-compatible structured proposals."
+  "notes": "AI capture and full-network search now run through a private, self-hosted AI gateway instead of Gemini. The Gemini API key setting is replaced by an access token for that gateway, and any previously saved Gemini credentials are cleared on upgrade. Capture review, consent gating, evidence-ID validation, and all local/manual flows are unchanged. This build cannot use AI features without a gateway access token."
 }
