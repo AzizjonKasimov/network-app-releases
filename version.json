@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.5.0/NetworkApp-0.5.0.apk",
+  "versionCode": 6,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.5.1/NetworkApp-0.5.1.apk",
   "apkSizeBytes": 7548795,
-  "sha256": "483c554f2d487dcba1b1cec7347d5bcdfef9b4cedad80f98f4c5507673ed9726",
+  "sha256": "64a7498ce07c377038fa5253b92c491b1479c848852e8c3cf4fb5b75f7e5747f",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Faster AI capture. Notes about someone already in your network skip a step, and the assistant returns a shorter proposal - about 9 seconds instead of 30. Captures now keep running when you switch to another app, and an unsent note is saved if the app closes. Adds a foreground service notification for the background work."
+  "notes": "Fixes leftover wording on the Settings screen: the access token field was labelled 'Access tokey', and its buttons said 'Save key' and 'Remove key' instead of token. No functional changes."
 }
