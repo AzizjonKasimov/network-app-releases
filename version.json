@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.7.0/NetworkApp-0.7.0.apk",
-  "apkSizeBytes": 7597979,
-  "sha256": "2b2cd13c1820e98fb2aee11ba85074bc389c25f7ecbcb5afa890d7b475be2fc4",
+  "versionCode": 9,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.8.0/NetworkApp-0.8.0.apk",
+  "apkSizeBytes": 7614363,
+  "sha256": "a5d85e7d5135f38bcc9e6de07100926589fa01ca9f45e0828056072b196664a3",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "A person can now hold several jobs at once. Organizations and roles moved into a Positions list on each person, so someone who is a CEO at one company and a CTO at another keeps both, each marked current or past. Existing people keep their stored job as a current position, and older backups restore the same way. The assistant also no longer discards a whole proposal when it just wants to explain how it handled something; those notes now appear on the card instead."
+  "notes": "Facts that used to fall through now get saved properly. A product's user count, a notable event someone took part in, a piece of their history - anything that is not a job, a need or a skill - is kept as its own Background record you can see, edit and search. Degrees and studies are now recorded as education rather than as a past job. Existing people and older backups carry over unchanged."
 }
