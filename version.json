@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.6.0/NetworkApp-0.6.0.apk",
-  "apkSizeBytes": 7565211,
-  "sha256": "55b3be9e9baf2c4c46ea4fa0e85e18737fd5a7e63d1004f495e131e816a20de0",
+  "versionCode": 8,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.7.0/NetworkApp-0.7.0.apk",
+  "apkSizeBytes": 7597979,
+  "sha256": "2b2cd13c1820e98fb2aee11ba85074bc389c25f7ecbcb5afa890d7b475be2fc4",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "The Capture and Match screens are replaced by one Assistant chat. Write a note about someone or ask who could help, and the assistant works out which you meant. Reply to a proposed change to correct it before saving, instead of re-editing a dialog. Nothing is saved until you tap Apply. People keeps browsing, manual editing, and offline local search."
+  "notes": "A person can now hold several jobs at once. Organizations and roles moved into a Positions list on each person, so someone who is a CEO at one company and a CTO at another keeps both, each marked current or past. Existing people keep their stored job as a current position, and older backups restore the same way. The assistant also no longer discards a whole proposal when it just wants to explain how it handled something; those notes now appear on the card instead."
 }
