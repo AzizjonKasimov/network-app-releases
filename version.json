@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.9.0/NetworkApp-0.9.0.apk",
-  "apkSizeBytes": 7647167,
-  "sha256": "20701f425706f288bd450652a004e053711011cbdc9eb0ed4564be145bc75fdc",
+  "versionCode": 11,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.10.0/NetworkApp-0.10.0.apk",
+  "apkSizeBytes": 7663555,
+  "sha256": "ca5f52cac954bb52b25fa695cf534a50ea44b42fd773002b69ad321114f3ce47",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Report a wrong assistant answer from the Assistant tab with a fixed label and an optional note. Settings collects the reports and exports them as one shareable file, with saved people replaced by placeholders by default. Reports stay on the phone until you export them and are never included in the encrypted backup."
+  "notes": "A note filed against the wrong person can now be moved. Open the person holding it, find it under Interactions, and tap Move; the note and every position, need, capability and background record it created move together, and you can send it to an existing person or create the one it actually belongs to. The same action is on the proposal card right after a capture is applied."
 }
