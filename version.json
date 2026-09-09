@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.8.0/NetworkApp-0.8.0.apk",
-  "apkSizeBytes": 7614363,
-  "sha256": "a5d85e7d5135f38bcc9e6de07100926589fa01ca9f45e0828056072b196664a3",
+  "versionCode": 10,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.9.0/NetworkApp-0.9.0.apk",
+  "apkSizeBytes": 7647167,
+  "sha256": "20701f425706f288bd450652a004e053711011cbdc9eb0ed4564be145bc75fdc",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Facts that used to fall through now get saved properly. A product's user count, a notable event someone took part in, a piece of their history - anything that is not a job, a need or a skill - is kept as its own Background record you can see, edit and search. Degrees and studies are now recorded as education rather than as a past job. Existing people and older backups carry over unchanged."
+  "notes": "Report a wrong assistant answer from the Assistant tab with a fixed label and an optional note. Settings collects the reports and exports them as one shareable file, with saved people replaced by placeholders by default. Reports stay on the phone until you export them and are never included in the encrypted backup."
 }
