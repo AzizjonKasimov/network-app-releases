@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.10.0/NetworkApp-0.10.0.apk",
-  "apkSizeBytes": 7663555,
-  "sha256": "ca5f52cac954bb52b25fa695cf534a50ea44b42fd773002b69ad321114f3ce47",
+  "versionCode": 12,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.11.0/NetworkApp-0.11.0.apk",
+  "apkSizeBytes": 7647139,
+  "sha256": "5c1feada855668f8494e0383526851b66b575d5313bbd03bd6ee1a0ed447ca89",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "A note filed against the wrong person can now be moved. Open the person holding it, find it under Interactions, and tap Move; the note and every position, need, capability and background record it created move together, and you can send it to an existing person or create the one it actually belongs to. The same action is on the proposal card right after a capture is applied."
+  "notes": "Assistant reports now travel inside the encrypted backup instead of needing a separate export. Report a wrong answer, back up, and the report is on its way. The export and share step is gone; Settings keeps the report list and the delete controls."
 }
