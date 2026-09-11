@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "0.11.1",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.11.1/NetworkApp-0.11.1.apk",
-  "apkSizeBytes": 7647135,
-  "sha256": "96cd15b92aa0bf0406598874c4bfbf47f4e283bc2afca275e567265bc2e37bd0",
+  "versionCode": 14,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.12.0/NetworkApp-0.12.0.apk",
+  "apkSizeBytes": 7663519,
+  "sha256": "53a33a3cf311c27073d9967ce50a778b484e1a2fa8c0e2c529a9e1d373b04f18",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Corrects what the report dialog says about where a report goes. It previously said nothing leaves the phone until you export it, which stopped being true when reports moved into the encrypted backup."
+  "notes": "Ask the assistant to move a note onto the right person and confirm it on a card, instead of being sent to do it by hand. Settings can now check that the saved passphrase still opens the stored backup, without restoring anything."
 }
