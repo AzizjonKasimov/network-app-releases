@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "0.13.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.13.0/NetworkApp-0.13.0.apk",
-  "apkSizeBytes": 7663519,
-  "sha256": "8761af4489fb5bd1e65a760876421100be454d8c0b89c535a0cef1bafc7a9b03",
+  "versionCode": 16,
+  "versionName": "0.14.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.14.0/NetworkApp-0.14.0.apk",
+  "apkSizeBytes": 7663523,
+  "sha256": "b6bad490ce88221a1b65cbd94fbaf0bc236beb5455b45735e207ce9af34094d7",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Where someone studied now has its own Education section instead of sitting under Positions, on the proposal card and on the person. The assistant files only work as a position; volunteering, memberships, clubs, and events become background facts."
+  "notes": "The assistant can now do much more from one message: answer any question about your network, update several people at once, move notes, and fix a record saved as the wrong type. Everything it saves is listed under its reply with one Undo, and deleting or merging always waits for you to confirm. It asks once for permission to read your network."
 }
