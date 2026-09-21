@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "0.14.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.14.0/NetworkApp-0.14.0.apk",
-  "apkSizeBytes": 7663523,
-  "sha256": "b6bad490ce88221a1b65cbd94fbaf0bc236beb5455b45735e207ce9af34094d7",
+  "versionCode": 17,
+  "versionName": "0.15.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.15.0/NetworkApp-0.15.0.apk",
+  "apkSizeBytes": 7679903,
+  "sha256": "e23720236a692c1c183a6bb213ee893057e7d227fdf5010c3b8c2e3c3145dd1d",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "The assistant can now do much more from one message: answer any question about your network, update several people at once, move notes, and fix a record saved as the wrong type. Everything it saves is listed under its reply with one Undo, and deleting or merging always waits for you to confirm. It asks once for permission to read your network."
+  "notes": "A new Needs tab gathers what people in your network are trying to solve or get, with the ones you have not helped with yet up front. Tap I helped without closing the need, or Close once it is solved; either moves back with one tap. Back on a person's page now returns to the list you opened them from instead of closing the app."
 }
