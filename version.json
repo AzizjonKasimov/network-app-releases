@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "0.15.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.15.0/NetworkApp-0.15.0.apk",
+  "versionCode": 18,
+  "versionName": "0.15.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.15.1/NetworkApp-0.15.1.apk",
   "apkSizeBytes": 7679903,
-  "sha256": "e23720236a692c1c183a6bb213ee893057e7d227fdf5010c3b8c2e3c3145dd1d",
+  "sha256": "67129ada22c01f14842c14d43ffb978ed47a9dc03244fb552bdac6ac75a42098",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "A new Needs tab gathers what people in your network are trying to solve or get, with the ones you have not helped with yet up front. Tap I helped without closing the need, or Close once it is solved; either moves back with one tap. Back on a person's page now returns to the list you opened them from instead of closing the app."
+  "notes": "Assistant replies no longer show markdown symbols, such as the asterisks that sometimes wrapped people's names."
 }
