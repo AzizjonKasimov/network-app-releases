@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "0.15.1",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.15.1/NetworkApp-0.15.1.apk",
+  "versionCode": 19,
+  "versionName": "0.16.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.16.0/NetworkApp-0.16.0.apk",
   "apkSizeBytes": 7679903,
-  "sha256": "67129ada22c01f14842c14d43ffb978ed47a9dc03244fb552bdac6ac75a42098",
+  "sha256": "0db62b7c556b21adbcb1db6d5775eba6ea4d91d99483214f4bae234da2841dfb",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Assistant replies no longer show markdown symbols, such as the asterisks that sometimes wrapped people's names."
+  "notes": "Needs cards now say who each person is: what they do, where they are, and how you know them. Ask the assistant to look someone up online, or send it a link such as a LinkedIn profile, and it saves who they are along with the pages it used. The assistant asks for permission once more, because a lookup sends a name to a web search."
 }
