@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "0.17.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.17.0/NetworkApp-0.17.0.apk",
+  "versionCode": 21,
+  "versionName": "0.17.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.17.1/NetworkApp-0.17.1.apk",
   "apkSizeBytes": 7944957,
-  "sha256": "5927758dc87790ab1aa3407041805152eaf14e764c7c2708d9c67589b8214dbd",
+  "sha256": "e9f15d5a8b632dc1031d13e4920178cb8e38b0fc4e136aac1ab37c02ebb94291",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "New Check-in tab: it reminds you about people you saved in your phone or who wrote to you on Telegram, WhatsApp, KakaoTalk or LinkedIn but are not in your network yet, chats worth a note, and saved details that may be out of date, with an optional evening reminder. The assistant now reads photos: attach a business card or a profile screenshot, take one with the camera, or share one into the app. The app's own voice input is removed; your keyboard's voice typing still works."
+  "notes": "Long names now show in full. On a person's page the name sits at the top of their profile card instead of being cut off, and the assistant's Open buttons and the Move this note list show long names whole."
 }
