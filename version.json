@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "0.17.1",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.17.1/NetworkApp-0.17.1.apk",
-  "apkSizeBytes": 7944957,
-  "sha256": "e9f15d5a8b632dc1031d13e4920178cb8e38b0fc4e136aac1ab37c02ebb94291",
+  "versionCode": 22,
+  "versionName": "0.18.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.18.0/NetworkApp-0.18.0.apk",
+  "apkSizeBytes": 7961341,
+  "sha256": "650e994020574029ca22385dc4fd8ca9749eef2af29217c6d9bdf75ed95a5d16",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "Long names now show in full. On a person's page the name sits at the top of their profile card instead of being cut off, and the assistant's Open buttons and the Move this note list show long names whole."
+  "notes": "The check-in now recognizes people saved in your phone or chat apps under a different name. On a new-person card, Already saved lets you pick who it is, with close matches suggested first, and the name is kept as one of their other names, which you can edit on their page. When you tap Add and the assistant finds the person already saved, it keeps the phone's name too."
 }
