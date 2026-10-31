@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "0.18.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.18.0/NetworkApp-0.18.0.apk",
-  "apkSizeBytes": 7961341,
-  "sha256": "650e994020574029ca22385dc4fd8ca9749eef2af29217c6d9bdf75ed95a5d16",
+  "versionCode": 23,
+  "versionName": "0.19.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/network-app-releases/releases/download/v0.19.0/NetworkApp-0.19.0.apk",
+  "apkSizeBytes": 7994109,
+  "sha256": "752c0208376cf5e4d28ea01f177b32fbfdcbd42ff1b95d768dcd8f312121fdd4",
   "signingCertificateSha256": "34ef3571c61eabf4cfa859fb627a2de200140f79a10fbe6bd8151c254d067888",
-  "notes": "The check-in now recognizes people saved in your phone or chat apps under a different name. On a new-person card, Already saved lets you pick who it is, with close matches suggested first, and the name is kept as one of their other names, which you can edit on their page. When you tap Add and the assistant finds the person already saved, it keeps the phone's name too."
+  "notes": "Drafts from your PC: an update for the Assistant written on your computer can now reach this phone without copy and paste. It is encrypted so that only this phone can open it, and it waits above the message box on the Assistant tab until you tap Send, Edit, or Discard. Turn it on in Settings under Drafts from your PC."
 }
